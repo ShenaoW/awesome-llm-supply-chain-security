@@ -103,6 +103,7 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 
 - **[CVE-2023-48022]** The story of ShadowRay [[Link]](https://www.vicarius.io/vsociety/posts/the-story-of-shadowray-cve-2023-48022)
 
+- **[CVE-2023-49785]** Hacking AI Chatbots for fun and learning - Analyzing an unauthenticated SSRF and reflected XSS in ChatGPT-Next-Web (CVE-2023-49785) [[Link]](https://www.vicarius.io/vsociety/posts/hacking-ai-chatbots-for-fun-and-learning-analyzing-an-unauthenticated-ssrf-and-reflected-xss-in-chatgpt-next-web-cve-2023-49785)
 to be continued...
 
 ## Contribution
