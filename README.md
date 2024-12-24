@@ -22,6 +22,8 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 ## Papers
 
 ### Technical Paper
+- **[ICSE'25]** Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and Defenses [[Paper]](https://syssec.dpss.inesc-id.pt/papers/pedro_icse25.pdf)
+
 
 - **[S&P'25]** My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs [[Repo]](https://github.com/ZJU-SEC/TensorAbuse)
 
