@@ -69,6 +69,10 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 
 ## Security Reports
 
+- Machine Learning Bug Bonanza – Exploiting ML Services [[Link](https://jfrog.com/blog/machine-learning-bug-bonanza-exploiting-ml-services/)]
+
+- Machine Learning Bug Bonanza – Exploiting ML Clients and “Safe” Model Formats [[Link](https://jfrog.com/blog/machine-learning-bug-bonanza-exploiting-ml-clients-and-safe-models/)]
+
 - Offensive ML Playbook [[Link]](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook)
 
 - OWASP Top 10 for LLMs [[Link]](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_1.pdf)
