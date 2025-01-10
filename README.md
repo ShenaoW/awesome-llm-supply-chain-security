@@ -24,12 +24,13 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 ### Technical Paper
 - **[ICSE'25]** Prompt-to-SQL Injections in LLM-Integrated Web Applications: Risks and Defenses [[Paper]](https://syssec.dpss.inesc-id.pt/papers/pedro_icse25.pdf)
 
-
 - **[S&P'25]** My Model is Malware to You: Transforming AI Models into Malware by Abusing TensorFlow APIs [[Repo]](https://github.com/ZJU-SEC/TensorAbuse)
 
 - **[ASE'24]** Models Are Codes: Towards Measuring Malicious Code Poisoning Attacks on Pre-trained Model Hubs [[Paper]](https://arxiv.org/pdf/2409.09368)
 
 - **[CCS'24]** Demystifying RCE Vulnerabilities in LLM-Integrated Apps [[Paper]](https://arxiv.org/pdf/2309.02926) [[Repo]](https://github.com/LLMSmith/LLMSmith)
+
+- **[arXiv]** Cracks in The Stack: Hidden Vulnerabilities and Licensing Risks in LLM Pre-Training Datasets [[Paper]](https://arxiv.org/pdf/2501.02628)
 
 - **[arXiv]** We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs [[Paper]](https://arxiv.org/pdf/2406.10279)
 
