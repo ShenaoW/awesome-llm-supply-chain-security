@@ -73,6 +73,10 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 
 ## Security Reports
 
+- Guardrails Vulnerability Report [[Link]](https://hiddenlayer.com/sai-security-advisory/2024-09-guardrails)
+
+- MindsDB Vulnerability Report [[Link]](https://hiddenlayer.com/sai-security-advisory/2024-09-mindsdb)
+
 - Machine Learning Bug Bonanza – Exploiting ML Services [[Link](https://jfrog.com/blog/machine-learning-bug-bonanza-exploiting-ml-services/)]
 
 - Machine Learning Bug Bonanza – Exploiting ML Clients and “Safe” Model Formats [[Link](https://jfrog.com/blog/machine-learning-bug-bonanza-exploiting-ml-clients-and-safe-models/)]
