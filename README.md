@@ -47,7 +47,7 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 
 ### Survey
 
-- **[arXiv]** Large Language Model Supply Chain: A Research Agenda [[Paper]](https://arxiv.org/pdf/2404.12736)
+- **[TOSEM]** Large Language Model Supply Chain: A Research Agenda [[Paper]](https://arxiv.org/pdf/2404.12736)
 
 - **[arXiv]** Lifting the Veil on the Large Language Model Supply Chain: Composition, Risks, and Mitigations [[Paper]](https://arxiv.org/pdf/2410.21218)
 
@@ -73,9 +73,11 @@ Contributions are always welcome. Please follow the [Contribution Guidelines](ht
 
 ## Security Reports
 
-- Guardrails Vulnerability Report [[Link]](https://hiddenlayer.com/sai-security-advisory/2024-09-guardrails)
+- Hidden Layer: Autolabel Vulnerability Report [[Link]](https://hiddenlayer.com/sai-security-advisory/2024-09-autolabel)
 
-- MindsDB Vulnerability Report [[Link]](https://hiddenlayer.com/sai-security-advisory/2024-09-mindsdb)
+- Hidden Layer: Guardrails Vulnerability Report [[Link]](https://hiddenlayer.com/sai-security-advisory/2024-09-guardrails)
+
+- Hidden Layer: MindsDB Vulnerability Report [[Link]](https://hiddenlayer.com/sai-security-advisory/2024-09-mindsdb)
 
 - Machine Learning Bug Bonanza – Exploiting ML Services [[Link](https://jfrog.com/blog/machine-learning-bug-bonanza-exploiting-ml-services/)]
 
